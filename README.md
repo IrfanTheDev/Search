@@ -4,22 +4,22 @@ Design a front-end for Google Search, Google Image Search, and Google Advanced S
 ## Overview
 Search is the zeroth project for Harvard CS50's Web Programming with Python and JavaScript course. The project specifications are listed [here](https://cs50.harvard.edu/web/2020/projects/0/search/).
 
-### Project Demos
+## Project Demos
 A [full demo of my project](https://youtu.be/41f2yAE5AAw) can be viewed on YouTube along with my all [other CS50 Web Projects](https://www.youtube.com/playlist?list=PL6kIwIV_2O_gfcx46gplsaybo8c9vTb3d).
 
 
 Note the quality of the following clips may be lower due to conversion from video to GIF format. <br/>
 
-#### Search 
+### Search 
 <img src="Demo/search1-bike.gif" width= 80% />
 
-####  Image Search
+###  Image Search
 <img src="Demo/search2-img-bike.gif" width=80%/>
 
-####  Advanced Search 
+###  Advanced Search 
 <img src="Demo/search3-adv.gif" width=80%/>
 
-####  Feeling Lucky. 
+###  Feeling Lucky. 
 <img src="Demo/search4-feeling-lucky.gif" width=80%/>
 
 
