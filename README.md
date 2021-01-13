@@ -29,5 +29,5 @@ If you experience any bugs or see anything that can be improved or added, please
  Thanks in advance!
 
 Email: theirfan2020@gmail.com  <br/>
-Linkedin: https://www.linkedin.com/in/theirfanr/
+Linkedin: [https://www.linkedin.com/in/theirfanr/](https://www.linkedin.com/in/theirfanr/)
 
