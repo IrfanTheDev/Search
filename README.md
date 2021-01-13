@@ -13,11 +13,17 @@ Note the quality of the following clips may be lower due to conversion from vide
 ### Search 
 <img src="Demo/search1-bike.gif" width= 80% />
 
+
+
 ###  Image Search
 <img src="Demo/search2-img-bike.gif" width=80%/>
 
+
+
 ###  Advanced Search 
 <img src="Demo/search3-adv.gif" width=80%/>
+
+
 
 ###  Feeling Lucky. 
 <img src="Demo/search4-feeling-lucky.gif" width=80%/>
