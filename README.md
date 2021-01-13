@@ -10,13 +10,20 @@ A [full demo of my project](https://youtu.be/41f2yAE5AAw) can be viewed on YouTu
 
 Note the quality of the following clips may be lower due to conversion from video to GIF format. <br/>
 
-**Search** <br/>
-<img src="Demo/search1-bike.gif" />
-<br/> **Image Search** <br/>
+   #### Search 
+<br/>
+<img src="Demo/search1-bike.gif" width= 80% />
+<br/>
+  ####  Image Search
+<br/>
 <img src="Demo/search2-img-bike.gif" width=62%/>
-<br/> **Advanced Search** <br/>
+<br/>
+  ####  Advanced Search 
+<br/>
 <img src="Demo/search3-adv.gif" width=62%/>
-<br/> **Feeling Lucky.** <br/>
+<br/>
+  ####  Feeling Lucky. 
+<br/>
 <img src="Demo/search4-feeling-lucky.gif" width=62%/>
 
 
