@@ -11,7 +11,7 @@ A [full demo of my project](https://youtu.be/41f2yAE5AAw) can be viewed on YouTu
 Note the quality of the following clips may be lower due to conversion from video to GIF format. <br/>
 
 **Search** <br/>
-<img src="Demo/search1-bike.gif" width=62%/>
+<img src="Demo/search1-bike.gif" />
 <br/> **Image Search** <br/>
 <img src="Demo/search2-img-bike.gif" width=62%/>
 <br/> **Advanced Search** <br/>
