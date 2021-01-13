@@ -10,21 +10,21 @@ A [full demo of my project](https://youtu.be/41f2yAE5AAw) can be viewed on YouTu
 
 Note the quality of the following clips may be lower due to conversion from video to GIF format. <br/>
 
-   #### Search 
+#### Search 
 <br/>
 <img src="Demo/search1-bike.gif" width= 80% />
 <br/>
-  ####  Image Search
+####  Image Search
 <br/>
-<img src="Demo/search2-img-bike.gif" width=62%/>
+<img src="Demo/search2-img-bike.gif" width=80%/>
 <br/>
-  ####  Advanced Search 
+####  Advanced Search 
 <br/>
-<img src="Demo/search3-adv.gif" width=62%/>
+<img src="Demo/search3-adv.gif" width=80%/>
 <br/>
-  ####  Feeling Lucky. 
+####  Feeling Lucky. 
 <br/>
-<img src="Demo/search4-feeling-lucky.gif" width=62%/>
+<img src="Demo/search4-feeling-lucky.gif" width=80%/>
 
 
 
@@ -33,5 +33,5 @@ If you experience any bugs or see anything that can be improved or added, please
  Thanks in advance!
 
 Email: theirfan2020@gmail.com  <br/>
-Linkedin: [https://www.linkedin.com/in/theirfanr/](https://www.linkedin.com/in/theirfanr/)
+Linkedin: https://www.linkedin.com/in/theirfanr/
 
